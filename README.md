@@ -7,7 +7,7 @@ Here is about me:
 - 🔭 I’m currently working at Rogers Communications as Technology New Grad
 - 🌱 I’m currently learning on Advance Python Development, OpenAPI Specs, etc.
 - 👯 I’m looking to collaborate on Automation Stuff with Python
-- 🤔 ~~I’m looking for help with~~ (not at the moment, or maybe Jykell)
+- 🤔 ~~I’m looking for help with~~ (not at the moment, or maybe Jekyll)
 - 💬 Ask me about Python, Flask, Automation, or just ask me anything.
 - 📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/mrkprdo?logo=twitter&style=flat-square) or <a href="mailto://engrmark.prado@gmail.com">Email</a>
 
