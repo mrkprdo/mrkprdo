@@ -9,7 +9,7 @@ Here is about me:
 - 👯 I’m looking to collaborate on Automation Stuff with Python
 - 🤔 ~~I’m looking for help with~~ (not at the moment, or maybe Jekyll)
 - 💬 Ask me about Python, Flask, Automation, or just ask me anything.
-- 📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/mrkprdo?logo=twitter&style=flat-square) or <a href="mailto://engrmark.prado@gmail.com">Email</a>
+- 📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/mrkprdo?logo=twitter&style=flat-square) or <a href="mailto:engrmark.prado@gmail.com">Email</a>
 
 My stuff:
 
@@ -19,7 +19,7 @@ I have other stuff soon that i will put here on my github which will be useful. 
 
 Anyway, thanks for checking my github page. Feel free to connect.
 
-<a onclick="alert('Hi')">TEST</a>
+<a href="#" target="_blank" onclick="alert('Hi')">TEST</a>
 
 <!--
 **mrkprdo/mrkprdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
