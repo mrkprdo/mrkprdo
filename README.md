@@ -19,7 +19,7 @@ I have other stuff soon that i will put here on my github which will be useful. 
 
 Anyway, thanks for checking my github page. Feel free to connect.
 
-<button onclick="alert('Hi')">TEST</button>
+<a onclick="alert('Hi')">TEST</a>
 
 <!--
 **mrkprdo/mrkprdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
