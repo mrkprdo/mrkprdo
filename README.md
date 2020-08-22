@@ -1,4 +1,4 @@
-## Mark Prado - @mrkprdo
+## Mark Prado - @mrkprdo [![HitCount](http://hits.dwyl.com/mrkprdo/mrkprdo.svg)](http://hits.dwyl.com/mrkprdo/mrkprdo)
 ### Hi, I am suprised you found my github.
 <hr>
 Here is about me:
